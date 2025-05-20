@@ -1,3 +1,16 @@
-body {
+h2 {
+  color: #A020F0;
+  text-decoration: underline wavy 5px;
+  letter-spacing: 5px;
+  line-height: 1.8;
+   text-shadow: 2px 1px antiquewhite;
+}
 
+body {
+  background-color: #C3C3FF;
+}
+
+img:hover {
+  width: 300px;
+  border-radius: 8px;
 }
