@@ -7,10 +7,33 @@ h2 {
 }
 
 body {
-  background-color: #C3C3FF;
+  background-color: antiquewhite;
 }
 
 img:hover {
   width: 300px;
   border-radius: 8px;
+}
+
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 15px 50px;
+  float: left;
+}
+
+li a:hover {
+  background-color: #5988af;
+  color: black;
 }
