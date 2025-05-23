@@ -1,13 +1,13 @@
 h2 {
-  color: #A020F0;
-  text-decoration: underline wavy 5px;
+  color: #333;
+  text-decoration: underline overline #9e9e9e 10px;
   letter-spacing: 5px;
   line-height: 1.8;
    text-shadow: 2px 1px antiquewhite;
 }
 
 body {
-  background-color: antiquewhite;
+  background-color: #eeeeee;
 }
 
 img:hover {
