@@ -43,3 +43,28 @@ li a:hover {
   background-color: #5988af;
   color: black;
 }
+
+.img-fluid {
+  height: 30px;
+  width: 30px;
+}
+
+
+div {
+  background-color: white;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+
+div:hover {
+  width: 310px;
+  margin: 10px;
+}
+
+
+.container {
+  border: 0px;
+  background-color: #D7E0EA;
+  width: auto;
+}
