@@ -16,6 +16,12 @@ h5 {
   text-shadow: 2px 1px antiquewhite;
 }
 
+h6 {
+    font-size: 30px;
+  text-decoration: underline;
+  text-shadow: 2px 1px antiquewhite;
+}
+
 body {
   background-color: #D7E0EA;
 }
@@ -88,6 +94,12 @@ div {
   width: 350px;
   padding: 60px;
   margin: 30px;
+}
+.box3 {
+  background-color: white;
+  width: 1000px;
+  padding: 40px;
+  margin: 5px;
 }
 
 .box2 {
